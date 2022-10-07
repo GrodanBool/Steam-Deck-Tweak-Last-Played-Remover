@@ -1,3 +1,7 @@
 .appdetailsplaysection_LastPlayed_3pS8k {
     display: none !important;
 }
+
+.appdetailsplaysection_GameStatsSection_1mDAV .Focusable {
+    display: none !important;
+}
