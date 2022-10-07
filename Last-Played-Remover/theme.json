@@ -1,0 +1,11 @@
+{
+  "name": "Last Played Remover",
+  "version": "v1.0",
+  "author": "GrodanBool",
+  "target": "Tweak",
+  "description": "Removes the Last Played time from the game page",
+  "inject": {
+    "shared.css": [ "SP" ]
+  },
+  "manifest_version": 3
+}
