@@ -1,4 +1,4 @@
-# Footer Remover
+# Last Played Remover
  A tweak to remove the Last Played time from the game page.
 
 ## Installation
